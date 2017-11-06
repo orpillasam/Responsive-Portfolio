@@ -2,8 +2,11 @@
 Responsive Portfolio 
 
 UCI Full Stack Web Development 24 week Boot Camp 9/25/17 to 4/7/18
+
 Homework #2 - One of Two Assignments
+
 Assigned: 10/7/17
+
 Due: 10/14/17
 
 This is part one of two assignments to make our previous homework responsive.  Actually, most of my time was made optimizing my HTML and CSS code based on the solution we received for our previous assignment. This really helped my understand how to be more efficient.
